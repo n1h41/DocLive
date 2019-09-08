@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/n1h41/doclive.git/static/css/main.6ef24c3f.chunk.css",
-    "main.js": "/n1h41/doclive.git/static/js/main.33dbda25.chunk.js",
-    "main.js.map": "/n1h41/doclive.git/static/js/main.33dbda25.chunk.js.map",
-    "runtime~main.js": "/n1h41/doclive.git/static/js/runtime~main.118ccf5e.js",
-    "runtime~main.js.map": "/n1h41/doclive.git/static/js/runtime~main.118ccf5e.js.map",
-    "static/js/2.7058e89f.chunk.js": "/n1h41/doclive.git/static/js/2.7058e89f.chunk.js",
-    "static/js/2.7058e89f.chunk.js.map": "/n1h41/doclive.git/static/js/2.7058e89f.chunk.js.map",
-    "index.html": "/n1h41/doclive.git/index.html",
-    "precache-manifest.88709d78466562686af0e1251e22714c.js": "/n1h41/doclive.git/precache-manifest.88709d78466562686af0e1251e22714c.js",
-    "service-worker.js": "/n1h41/doclive.git/service-worker.js",
-    "static/css/main.6ef24c3f.chunk.css.map": "/n1h41/doclive.git/static/css/main.6ef24c3f.chunk.css.map",
-    "static/media/Section.css": "/n1h41/doclive.git/static/media/docimage.ed41d00e.jpg",
-    "static/media/doctor.png": "/n1h41/doclive.git/static/media/doctor.ab620116.png"
+    "main.css": "/DocLive/static/css/main.7d903dcc.chunk.css",
+    "main.js": "/DocLive/static/js/main.ae684dc7.chunk.js",
+    "main.js.map": "/DocLive/static/js/main.ae684dc7.chunk.js.map",
+    "runtime~main.js": "/DocLive/static/js/runtime~main.2ac35d22.js",
+    "runtime~main.js.map": "/DocLive/static/js/runtime~main.2ac35d22.js.map",
+    "static/js/2.711ee7d3.chunk.js": "/DocLive/static/js/2.711ee7d3.chunk.js",
+    "static/js/2.711ee7d3.chunk.js.map": "/DocLive/static/js/2.711ee7d3.chunk.js.map",
+    "index.html": "/DocLive/index.html",
+    "precache-manifest.3a0fe26f7f1c7b0cbb19b73a84083748.js": "/DocLive/precache-manifest.3a0fe26f7f1c7b0cbb19b73a84083748.js",
+    "service-worker.js": "/DocLive/service-worker.js",
+    "static/css/main.7d903dcc.chunk.css.map": "/DocLive/static/css/main.7d903dcc.chunk.css.map",
+    "static/media/Section.css": "/DocLive/static/media/docimage.ed41d00e.jpg",
+    "static/media/doctor.png": "/DocLive/static/media/doctor.ab620116.png"
   }
 }
